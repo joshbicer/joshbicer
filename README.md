@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**joshbicer/joshbicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Josh Bicer! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am recent graduate from William and Mary's Masters in Business Analytics (MSBA) program and work as an ERP Reporting and Anlaytics Consultant. I have a passion for statistics, modeling, data analytics, and data visualization and use this profile to showcase my career, academic, and personal work. 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/joshbicer)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-bicer)
+
+
