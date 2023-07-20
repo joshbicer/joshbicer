@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am recent graduate from William and Mary's Masters in Business Analytics (MSBA) program and work as an ERP Reporting and Anlaytics Consultant. I have a passion for statistics, modeling, data analytics, and data visualization and use this profile to showcase my career, academic, and personal work. My goal is to continually learn new topics in the fast-growing field of Machine Learning and I welcome any feedback and collaboration for my repositories.
+I am recent graduate from William and Mary's Masters in Business Analytics (MSBA) program and work as an ERP Reporting and Anlaytics Consultant. I have a passion for statistics, modeling, data analytics, and data visualization and use this profile to showcase my career, academic, and personal work. My goal is to continually learn new topics in the fast-growing field of Data Science and I welcome any feedback and collaboration for my repositories.
 
 Models and technologies featured on this page include:
 - Linear and Logistic Regressions
